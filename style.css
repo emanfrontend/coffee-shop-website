@@ -86,7 +86,7 @@ a{
 /* Home Start  */
 
 #home{
-    background: url(imgs/home-bg.png) center no-repeat;
+    background: url(home-bg.png) center no-repeat;
     background-size: 100%;
     background-color: var(--bg-color);
 }
@@ -275,7 +275,7 @@ a{
 /* Contact End */
  /* Footer Start */
 #footer .footer-top{
-    background: url("imgs/footer-bg.png");
+    background: url("footer-bg.png");
     color: #fff;
 }
 #footer .footer-top .row {
